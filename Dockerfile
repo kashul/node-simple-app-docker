@@ -12,7 +12,7 @@ WORKDIR /app
 RUN npm install
 
 # expose port 3000 for host
-# EXPOSE 3000
+EXPOSE 3000
 
 # command that executes when conteiner starts
 CMD ["node", "server.js"]
