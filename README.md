@@ -65,10 +65,7 @@ Follow below instructions for setup project locally and run.
 ### Prerequisites
 
 Download and install Docker desktop on your machine.[Docker desktop](https://www.docker.com/products/docker-desktop/)
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+
 
 ### Installation
 
@@ -139,14 +136,14 @@ Project Link: [https://github.com/kashul/node-simple-app-docker](https://github.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/kashul/node-simple-app-docker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/kashul/node-simple-app-docker?style=for-the-badge
 [forks-url]: https://github.com/kashul/node-simple-app-docker/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/kashul/node-simple-app-docker?style=for-the-badge
 [stars-url]: https://github.com/kashul/node-simple-app-docker/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/kashul/node-simple-app-docker?style=for-the-badge
 [issues-url]: https://github.com/kashul/node-simple-app-docker/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/kashul/node-simple-app-docker?style=for-the-badge
 [license-url]: https://github.com/kashul/node-simple-app-docker/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://github.com/kashul
+[linkedin-url]: https://www.linkedin.com/in/kashul-hindagoda/
 [product-screenshot]: images/screenshot.png
