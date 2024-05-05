@@ -15,7 +15,7 @@
     <img src="images/docker.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Node simple app docker
+  <h3 align="center">Simple NodeJS application for docker image
 </h3>
 
   <p align="center">
